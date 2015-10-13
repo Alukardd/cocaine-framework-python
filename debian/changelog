@@ -1,3 +1,10 @@
+cocaine-framework-python (0.12.4.7) unstable; urgency=low
+
+  * Adapt package to build in Jessie
+    See https://wiki.debian.org/Python/TransitionToDHPython2
+
+ -- Alexey Mochkin <alukardd@alukardd.org>  Tue, 13 Oct 2015 16:21:58 +0300
+
 cocaine-framework-python (0.12.4.6) unstable; urgency=low
 
   * [API] Access to default locator endpoints
